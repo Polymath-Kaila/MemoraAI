@@ -1,0 +1,13 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+elasticsearch
+google-cloud-aiplatform
+google-auth
+numpy
+scipy
+tiktoken
+streamlit
+
