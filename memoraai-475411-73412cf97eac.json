@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "memoraai-475411",
-  "private_key_id": "73412cf97eacf542632af8c75bd92c0a0b82b78e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSmn3w4klsnyuc\nVNAR6FV8NYEge9BNbsI0abNbraAJRhrbq9M9IWbd7inrscyybPfCeLHRBD1L/hYw\nebRhsNbdFr369W32dKC9LGpHzKfbpkkYNT3Os49cn8/ujqbAHPEwfHSM7kvU+JVq\npebpmGDPUBpXmvR485dNnFesZ2ViTUemDt/kcRo5fEQV5E9zN8nLBE3cWiKwmEAr\nFe26CvHQPjgN2m+Jj2IdWq+1cKvNWuOatznOY7Eypn2PdkF7chTVAZ+itJ5xjIqS\nIleZNByMofaz/ZprbbHt3dQHcivXeZB0Ltip0yj+wJ62PHg9O9nytiN+q4MBhhtD\nbEDlPBlhAgMBAAECggEAIeMggS5UHLGG6aZ+/WaqPKx6TNEHXTJFdvwME2QeZGee\nojqlaIhzniG4ppdrJcmhWy4jBIwfVdc6WE34/6AeDqCebJ9ptHajN5VKO6fbWZ1J\n1SaZ/aTIXGHNqifTfoWZrJDWCyg71Pazyh+MRomRiEIuHusMy9p8Pc16kP/pIRYd\n/pjMn7OUyZoPAnP15A38Yk0JDYNuoaXv8pK32Nw+y448mNVrMqy6E/q6D0YBHry4\nepOVR3wYIWc3+IvWs3Lf1EqYEupwcr8hpC7u3bSMKbF+OAn6bkhkPpq75X45Gq+f\nPcYTk/zlhVnI4g/aNiPS8ZfByBL07x8cyK/MEy2a/QKBgQDvqg+ZawWba9Q1Wgf2\n+TERFPc2CPsU6l/sG28CcorKm1OnQOgXooSMR4UroM2ZK8AXnSkSJCLImTQEEGsV\nAiFpsQekgTi1zLhKgoKjHvIFAYHIQ+UNfAOgbA21I6zlAkt9O048c9ZklyWuHkHX\ndNsSfjIltMi3qdHaOz+OVoc0tQKBgQDg9Vgp7m7T2E+7QmagnQklA1Y5FtFAkhEV\nVj/pEwZqa6opsoDWrvKW2GfwDLJ0VOIY5ZANT7rsufgO5Hf+EZrTcoZAvjGJE1hd\nYRNAyQySaYqr8hvs+Ny05idVV5P0+zD0HuNO99WiL/G/DjL0Y/6ahYvwV/gxlidj\nB51BIgkJfQKBgENogKS1DkmtpW0wGmdjpWJZlEKVehFi7oHZIXr9vn3H/FphjiX/\npupRv2oK+2jmfkvl/0RD96iWNqQh/gxVohI5IZ4qXkn7/6WtWZMJxCaWSuuJ9SW6\nyMZZPe3B0AJFh/f8M0AbkKSQQp/bkMdJ7cggyHgEhiPqVsTbvz+IpNS1AoGATMoT\nDUUxmajWFqLk62CPdY39CcHLLhJuOG1XpZTz9LHJxTAEoMPZVTqLyDpdVC6Be2Qp\nVxHnSdV1YogEmbqishj+0OzbdeIfoMh5TP0UCIp0ZptfgvW0SR/jP1OE0vRH0p0U\nlKkuyI07JS+QnzHfABokGae9thd+XGSF/mzCzvUCgYEAgddvl4mlVZCoPkdvnLlw\nL8fV9uZ10QmNeGJVyOPgvIFiEVxG4Q824wOxPv5Z2/4L3S3TPdxjvfxH8E9PPdCx\ncwQPiY0Q5DHa1XlPGjs0fn1ByFdxDDq2mo0rfjcYJwqP9on03BaSHVDEiqonZuTU\nD+tuENr6/4gp0/VIzTv8bDo=\n-----END PRIVATE KEY-----\n",
-  "client_email": "memoraai-service@memoraai-475411.iam.gserviceaccount.com",
-  "client_id": "115609907392191276789",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/memoraai-service%40memoraai-475411.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
